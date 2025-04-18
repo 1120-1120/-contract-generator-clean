@@ -1,0 +1,1 @@
+# Contract Generator App\nこれは不動産契約書を作成するNext.jsアプリです。
